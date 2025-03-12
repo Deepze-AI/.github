@@ -30,7 +30,7 @@ Quer contribuir com o crescimento da Deepze AI? Entre em contato conosco atravé
 
 ---
 
-📧 **Contato:** contato@deepze.com.br  
-🌐 **Website:** [deepze.com.br](https://deepze.com.br)
+📧 **Contato:** deepze@deepze.ai  
+🌐 **Website:** [deepze.ai](https://deepze.ai)
 
 Obrigado por visitar nosso perfil GitHub! 🚀✨
