@@ -11,7 +11,7 @@ A **Deepze AI** é uma plataforma inovadora especializada em soluções corporat
 
 ## 🛠️ Como utilizar?
 
-Explore nossas soluções diretamente pelo nosso [site oficial](https://deepze.com.br) ou entre em contato conosco para uma demonstração.
+Explore nossas soluções diretamente pelo nosso [site oficial](https://deepze.ai) ou entre em contato conosco para uma demonstração.
 
 ## 📈 Quem pode usar?
 
